@@ -1,4 +1,4 @@
-# Requirements
+# Assignment Requirements
 
 ## 1. Program Execution
 - When the program starts, it waits for user input.
@@ -36,3 +36,19 @@
 - The maximum length of the input expression is 512 characters.
 - Decimal numbers are not used; all calculations are done with integers.
 
+# Programming Instructions
+
+To program effectively, you need to learn not only the basic concepts covered in class but also how to handle input and output operations, such as displaying text on the screen or receiving user input.
+
+## Helpful Resources
+The following link provides explanations about environment calls that can be used for input and output operations:  
+[Environment Calls Documentation](https://github.com/TheThirdOne/rars/wiki/Environment-Calls)
+
+## Example Code
+For reference, example codes demonstrating how to print strings to the console are available here:  
+[Example Codes](https://github.com/TheThirdOne/rars/tree/master/examples)
+
+## How to Run
+1. Write the code and save it as a file.
+2. Press `F3` to assemble the code.
+3. Press `F5` to run it and view the output in the console.
